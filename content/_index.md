@@ -10,6 +10,7 @@ Dies ist lediglich Testtext. Ich brauche ihn, um zu sehen, ob das System läuft.
 - mit einem Punkt
 - mit einem zweiten Punkt
 - und mit einem dritten Punkt
+- und ganz neu mit einem vierten Punkt. 
 
 Sogar eine weitere Überschrift gibt es in diesem Dokument. 
 
